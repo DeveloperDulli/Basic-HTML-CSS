@@ -7,5 +7,4 @@
 	- 웹사이트 방문자 분석기
 
 #### 처음 만든 웹페이지
-	[Title](Link)
-	[Dulli](https://developerdulli.github.io/WEB1-HTML-Internet.html/)
+	[Link](https://developerdulli.github.io/WEB1-HTML-Internet.html/"WEB1수업")
