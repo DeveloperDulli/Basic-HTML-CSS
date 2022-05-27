@@ -1,7 +1,7 @@
 # WEB1 - HTML&Internet
 -------------------
 #### 처음 만든 웹페이지
-[Link](https://developerdulli.github.io/Basic-HTML-CSS// "WEB1수업")
+[Link](https://Hyung-Seok.github.io/Basic-HTML-CSS// "WEB1수업")
 
 #### 1. HTML을 이용하여 웹페이지 만들기 
 	- 동영상 삽입
